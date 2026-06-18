@@ -8,6 +8,10 @@ remote_theme: just-the-docs/just-the-docs
 url: "https://technicalcredit.github.io"
 
 nav:
+  - title: "Home"
+    url: /
+    nav_order: 1
+
   - title: "Research Agenda"
     url: /research-agenda/
     nav_order: 2
@@ -22,6 +26,7 @@ nav:
         url: /projects/tc-annotations/
       - title: "TC Detection Project"
         url: /projects/tc-detection/
+
 
 search_enabled: true
 color_scheme: light
