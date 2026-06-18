@@ -1,7 +1,8 @@
 ---
 title: Research Agenda
-nav_order: 1
+nav_order: 2
 ---
 
 # Research Agenda
-Content goes here.
+
+Content coming soon.
