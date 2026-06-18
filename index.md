@@ -1,36 +1,34 @@
-
 ---
 title: Home
 nav_order: 1
 ---
 
-# Research & Development Portfolio
+# Technical Credit R&D
 
-Welcome to the documentation hub for our ongoing research agenda and technical R&D projects.  
-This site provides clear, structured access to project goals, methodologies, datasets, and outcomes.
+Welcome to the documentation hub for the Technical Credit research agenda and R&D projects.
 
-Whether you're a collaborator, student, or reviewer, you’ll find everything organized for quick navigation and deep exploration.
+This site provides structured access to our research themes, methodologies, datasets, and project outcomes.
 
 ---
 
 ## 🔬 Research Agenda
-Our research agenda outlines the overarching themes, long-term goals, and guiding questions that shape our work.  
-It provides context for each R&D project and highlights the theoretical and practical motivations behind them.
+Explore the long-term research themes and guiding questions that shape our work.
 
-[Explore the Research Agenda →](/research-agenda/)
+[View Research Agenda →](/research-agenda/)
 
 ---
 
 ## 🧪 R&D Projects
-Our R&D portfolio currently includes three major technical tracks, each addressing a different aspect of trustworthy computing and technical communication.
+Our current R&D portfolio includes three major technical tracks:
 
 ### **TC‑MADR Project**
-Decision‑making frameworks, structured rationale capture, and engineering methodology refinement.
+Decision-making frameworks and structured rationale capture.
 
 ### **TC Annotations Project**
-Annotation schemas, labeling workflows, and tooling for structured technical content.
+Annotation schemas, labeling workflows, and tooling.
 
 ### **TC Detection Project**
-Automated detection of technical constructs using ML/NLP pipelines.
+Automated detection of technical constructs using ML/NLP.
 
 [View all R&D Projects →](/projects/)
+
