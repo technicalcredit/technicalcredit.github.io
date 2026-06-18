@@ -1,7 +1,8 @@
 ---
-title: TC-Detection Project
-parent: Projects
+title: TC Detection Project
+parent: R&D Projects
+nav_order: 3
 ---
 
-# TC-Detection Project
-Content goes here.
+# TC Detection Project
+
