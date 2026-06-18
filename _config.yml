@@ -1,6 +1,6 @@
 title: "Technical Credit R&D"
 description: "Home for Technical Credit R&D Projects"
-theme: "just-the-docs"
+# theme: "just-the-docs"
 
 # If hosting on GitHub Pages, use this instead:
 remote_theme: just-the-docs/just-the-docs
