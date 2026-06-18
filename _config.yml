@@ -5,14 +5,16 @@ description: "Home for Technical Credit R&D Projects"
 # If hosting on GitHub Pages, use this instead:
 remote_theme: just-the-docs/just-the-docs
 
-url: "https://technicalcredit.github.io/technicalcredit"
+url: "https://technicalcredit.github.io"
 
-# Navigation structure
 nav:
   - title: "Research Agenda"
     url: /research-agenda/
+    nav_order: 2
 
   - title: "R&D Projects"
+    url: /projects/
+    nav_order: 3
     children:
       - title: "TC-MADR Project"
         url: /projects/tc-madr/
@@ -21,10 +23,7 @@ nav:
       - title: "TC Detection Project"
         url: /projects/tc-detection/
 
-# Optional: enable search (built-in)
 search_enabled: true
-
-# Optional: color scheme
 color_scheme: light
 
 # Optional: Just-the-Docs features
